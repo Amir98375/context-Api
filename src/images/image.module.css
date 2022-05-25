@@ -1,0 +1,19 @@
+.buttonBase{
+    height: 200px;
+      width: 40%;
+      background-color: rgb(22, 216, 216);
+     
+  
+  }
+  .buttondark{
+      background-color: rgb(245, 100, 100);
+      width: 40%;
+      height: 300;
+  
+  }
+  .buttonlight{
+      background-color: rgb(24, 50, 29);
+      width: 40%;
+  height: 300px;
+  
+  }

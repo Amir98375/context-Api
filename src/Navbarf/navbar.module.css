@@ -1,0 +1,21 @@
+.B{
+   width: 100%;
+ 
+   background-color: teal;
+}
+.d{
+    background-color: grey;
+   
+    width: 100%;
+
+}
+.l{
+    background-color: yellowgreen;
+   
+   width: 100%;
+
+}
+.button{
+    height: 50px;
+    margin-left: 90%;
+}
